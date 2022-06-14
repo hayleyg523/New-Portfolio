@@ -170,7 +170,7 @@ h2.dark {
     right: 100%;
     z-index: 9;
     transition: 0.8s;
-    background: rgba(0, 186, 238, 0.82);
+    background: black;
     border-radius: 0.25rem;
 }
 .card-wrapper:hover:before {
@@ -385,5 +385,22 @@ h2.dark {
 }
 
 input.form-control {
+  color: black;
+}
+
+.container-sm {
+  max-width: 100%;
+}
+
+.card-wrapper h3 {
+  color: #EAD6CD;
+}
+
+.read-more {
+  background-color: #EAD6CD;
+  color: black;
+}
+
+.read-more:hover {
   color: black;
 }
