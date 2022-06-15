@@ -404,3 +404,8 @@ input.form-control {
 .read-more:hover {
   color: black;
 }
+
+.card-img {
+  max-height: 400px;
+  max-width: 300px;
+}
