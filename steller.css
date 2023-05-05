@@ -11230,6 +11230,29 @@ pre {
   height: 300px;
   width: 664px;
 }
+
+.sizefix {
+  height: 300px;
+  width: 300px;
+}
+
+.navbar-brand img {
+    width: 500px;
+}
+ 
+.logosize {
+  height: 80px;
+  width: 400px;
+}
+
+
+.size2 {
+  height: 300px;
+}
+.fixsize {
+  height: 370px;
+  width: 600px;
+}
 .contact {
   position: relative;
   border-radius: 0.3rem;
